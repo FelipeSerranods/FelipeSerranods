@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Felipe Serrano Santos 👋
 
-#### Atualmente, estou no terceiro semestre do curso de graduação em Engenharia de Software na Universidade Univille, buscando aprimorar meus conhecimentos e habilidades nessa área que tanto me interessa."
+### Atualmente, estou no terceiro semestre do curso de graduação em Engenharia de Software na Universidade Univille, buscando aprimorar meus conhecimentos e habilidades nessa área que tanto me interessa."
 
-#### Estou apenas no começo da minha jornada e tenho conhecimentos nessas tecnologias:
+### Estou apenas no começo da minha jornada e tenho conhecimentos nessas tecnologias:
 
 <div style = "display: inline_block"><br/>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +20,7 @@
 
 
 
-#### Minhas Redes Sociais:
+### Minhas Redes Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe_serrano_s/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeserranosantos/)
