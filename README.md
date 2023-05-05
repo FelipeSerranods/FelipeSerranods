@@ -14,11 +14,7 @@
 
 <br>
 
-![Felipe Github Stats](https://github-readme-stats.vercel.app/api?username=FelipeSerranods&theme=blue-green)
-
 ![Felipe Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSerranods&theme=blue-green)
-
-
 
 #### Minhas Redes Sociais:
 
