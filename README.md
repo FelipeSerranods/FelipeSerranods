@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Felipe Serrano Santos 👋
 
-#### Atualmente, estou no quarto semestre do curso de graduação em Engenharia de Software na Universidade Univille, buscando aprimorar meus conhecimentos e habilidades nessa área que tanto me interessa.
+#### Atualmente, estou no 5º semestre do curso de graduação em Engenharia de Software na Universidade Univille, buscando aprimorar meus conhecimentos e habilidades nessa área que tanto me interessa.
 
 #### Estou apenas no começo da minha jornada e tenho conhecimentos nessas tecnologias:
 
